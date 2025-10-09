@@ -33,7 +33,7 @@ export default function About() {
             About <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-600">Virinchi's</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Where beauty meets artistry. We're passionate about helping you look and feel your absolute best 
+             beauty meets artistry. We're passionate about helping you look and feel your absolute best 
             with our comprehensive range of beauty and wellness services.
           </p>
         </div>
